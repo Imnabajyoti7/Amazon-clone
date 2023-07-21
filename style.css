@@ -119,7 +119,6 @@
 }
 /* hero-section */
 .hero-section {
-  background-image: url(/images/hero_image.jpg);
   height: 21.875rem;
   background-size: cover;
   display: flex;
